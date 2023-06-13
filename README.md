@@ -20,7 +20,7 @@
 ---
 <div align="left">
   <h1 align= "center">🛠️Lenguages and Tools 🛠️</h1>
-    <div>
+    <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
@@ -28,8 +28,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>     
     </div>
-  <h2>🔧Other Tools🔧</h2>  
-    <div>
+  <h2 align="center">🔧Other Tools🔧</h2>  
+    <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" alt="maya" width="40" height="40" />
