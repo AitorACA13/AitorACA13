@@ -10,7 +10,7 @@
     
    - 👨🏻‍💻 I am currently studying the full stack programmer course at Hack a Boss.
    - 👨🏻‍🎓 I studied 3D modeling and 3D animation.
-   - 📘 I am currently learning React.
+   - 📘 I am currently learning Cybersecurity.
    - 🔎 How to reach me **aitor.delacueva13@gmail.com** .
    - Websites:
      -[Linkedin](https://www.linkedin.com/in/aitordelacuevaalonso/) 
