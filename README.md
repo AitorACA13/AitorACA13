@@ -1,7 +1,7 @@
 <div id="header" align="center" >
     <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
     <h1 align="center"> Hi 🖐🏻, I'm AitorACA13 </h1>
-    <h3 align="center">I am a full stack programmer student about to finish my studies, and little by little more passionate about the world of code.</h3>
+    <h3 align="center">I am a full stack programmer, and little by little more passionate about the world of code.</h3>
 </div>
 
 ---
